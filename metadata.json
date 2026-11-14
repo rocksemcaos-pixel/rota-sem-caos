@@ -1,0 +1,6 @@
+{
+  "name": "RotaFácil — Roteirizador Inteligente",
+  "description": "Aplicativo mobile-first de roteirização inteligente, otimização de múltiplas paradas e acompanhamento de entregas com Leaflet, OpenStreetMap, Photon e OSRM.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
